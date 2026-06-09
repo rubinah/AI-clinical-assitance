@@ -1,0 +1,19 @@
+# CRITICAL — .env.local contains your API key. NEVER commit this.
+.env.local
+.env
+
+# Next.js build output
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Claude Code local settings
+.claude/
