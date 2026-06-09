@@ -4,7 +4,7 @@ An AI-powered clinical decision support tool built with **Next.js 14**, **Anthro
 
 Combines health-tech domain knowledge with responsible AI engineering patterns — streaming chat, structured output validation, prompt injection protection, and human-in-the-loop confirmation for suggested actions.
 
-🔗 **Live Demo:** [ai-clinical-assistant.vercel.app](#) ← _replace with your Vercel URL_
+🔗 **Live Demo:** [clinical-ai-assitance.netlify.app](#) ← _replace with your Vercel URL_
 
 > ⚠️ **Demo only — not for real clinical use**
 
